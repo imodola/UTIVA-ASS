@@ -1,0 +1,13 @@
+{
+    "name": "multi-nodejs-app",
+    "version": "1.0.0",
+    "description": "A multi-stage Dockerfile example for Node.js application",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
